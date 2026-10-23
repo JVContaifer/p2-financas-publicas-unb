@@ -1,0 +1,621 @@
+ano,cod_ibge,municipio,foco,sem_dados_receitas,sem_dados_despesas,regime_contas
+2014,1300029,Alvarães,False,False,False,A
+2015,1300029,Alvarães,False,False,False,A
+2016,1300029,Alvarães,False,False,False,A
+2017,1300029,Alvarães,False,False,False,A
+2018,1300029,Alvarães,False,False,False,B
+2019,1300029,Alvarães,False,False,False,B
+2020,1300029,Alvarães,False,False,False,B
+2021,1300029,Alvarães,False,False,False,B
+2022,1300029,Alvarães,False,False,False,C
+2023,1300029,Alvarães,False,False,False,C
+2014,1300060,Amaturá,False,False,False,A
+2015,1300060,Amaturá,False,False,False,A
+2016,1300060,Amaturá,False,False,False,A
+2017,1300060,Amaturá,False,False,False,A
+2018,1300060,Amaturá,False,False,False,B
+2019,1300060,Amaturá,False,False,False,B
+2020,1300060,Amaturá,False,False,False,B
+2021,1300060,Amaturá,False,False,False,B
+2022,1300060,Amaturá,False,False,False,C
+2023,1300060,Amaturá,False,False,False,C
+2014,1300086,Anamã,False,False,False,A
+2015,1300086,Anamã,False,False,False,A
+2016,1300086,Anamã,False,False,False,A
+2017,1300086,Anamã,False,False,False,A
+2018,1300086,Anamã,False,False,False,B
+2019,1300086,Anamã,False,False,False,B
+2020,1300086,Anamã,False,False,False,B
+2021,1300086,Anamã,False,False,False,B
+2022,1300086,Anamã,False,False,False,C
+2023,1300086,Anamã,False,False,False,C
+2014,1300102,Anori,False,False,False,A
+2015,1300102,Anori,False,False,False,A
+2016,1300102,Anori,False,False,False,A
+2017,1300102,Anori,False,False,False,A
+2018,1300102,Anori,False,False,False,B
+2019,1300102,Anori,False,False,False,B
+2020,1300102,Anori,False,False,False,B
+2021,1300102,Anori,False,True,True,
+2022,1300102,Anori,False,False,False,C
+2023,1300102,Anori,False,False,False,C
+2014,1300144,Apuí,False,False,False,A
+2015,1300144,Apuí,False,False,False,A
+2016,1300144,Apuí,False,False,False,A
+2017,1300144,Apuí,False,False,False,A
+2018,1300144,Apuí,False,False,False,B
+2019,1300144,Apuí,False,False,False,B
+2020,1300144,Apuí,False,False,False,B
+2021,1300144,Apuí,False,False,False,B
+2022,1300144,Apuí,False,False,False,C
+2023,1300144,Apuí,False,False,False,C
+2014,1300201,Atalaia do Norte,False,False,False,A
+2015,1300201,Atalaia do Norte,False,False,False,A
+2016,1300201,Atalaia do Norte,False,False,False,A
+2017,1300201,Atalaia do Norte,False,False,False,A
+2018,1300201,Atalaia do Norte,False,False,False,B
+2019,1300201,Atalaia do Norte,False,False,False,B
+2020,1300201,Atalaia do Norte,False,False,False,B
+2021,1300201,Atalaia do Norte,False,False,False,B
+2022,1300201,Atalaia do Norte,False,False,False,C
+2023,1300201,Atalaia do Norte,False,False,False,C
+2014,1300300,Autazes,False,False,False,A
+2015,1300300,Autazes,False,False,False,A
+2016,1300300,Autazes,False,False,False,A
+2017,1300300,Autazes,False,False,False,A
+2018,1300300,Autazes,False,False,False,B
+2019,1300300,Autazes,False,False,False,B
+2020,1300300,Autazes,False,False,False,B
+2021,1300300,Autazes,False,False,False,B
+2022,1300300,Autazes,False,False,False,C
+2023,1300300,Autazes,False,False,False,C
+2014,1300409,Barcelos,False,False,False,A
+2015,1300409,Barcelos,False,False,False,A
+2016,1300409,Barcelos,False,False,False,A
+2017,1300409,Barcelos,False,False,False,A
+2018,1300409,Barcelos,False,False,False,B
+2019,1300409,Barcelos,False,False,False,B
+2020,1300409,Barcelos,False,False,False,B
+2021,1300409,Barcelos,False,False,False,B
+2022,1300409,Barcelos,False,False,False,C
+2023,1300409,Barcelos,False,False,False,C
+2014,1300508,Barreirinha,False,False,False,A
+2015,1300508,Barreirinha,False,False,False,A
+2016,1300508,Barreirinha,False,False,False,A
+2017,1300508,Barreirinha,False,False,False,A
+2018,1300508,Barreirinha,False,False,False,B
+2019,1300508,Barreirinha,False,False,False,B
+2020,1300508,Barreirinha,False,False,False,B
+2021,1300508,Barreirinha,False,False,False,B
+2022,1300508,Barreirinha,False,False,False,C
+2023,1300508,Barreirinha,False,False,False,C
+2014,1300607,Benjamin Constant,False,False,False,A
+2015,1300607,Benjamin Constant,False,False,False,A
+2016,1300607,Benjamin Constant,False,False,False,A
+2017,1300607,Benjamin Constant,False,False,False,A
+2018,1300607,Benjamin Constant,False,False,False,B
+2019,1300607,Benjamin Constant,False,False,False,B
+2020,1300607,Benjamin Constant,False,False,False,B
+2021,1300607,Benjamin Constant,False,False,False,B
+2022,1300607,Benjamin Constant,False,False,False,C
+2023,1300607,Benjamin Constant,False,False,False,C
+2014,1300631,Beruri,False,False,False,A
+2015,1300631,Beruri,False,False,False,A
+2016,1300631,Beruri,False,False,False,A
+2017,1300631,Beruri,False,False,False,A
+2018,1300631,Beruri,False,False,False,B
+2019,1300631,Beruri,False,False,False,B
+2020,1300631,Beruri,False,False,False,B
+2021,1300631,Beruri,False,False,False,B
+2022,1300631,Beruri,False,False,False,C
+2023,1300631,Beruri,False,False,False,C
+2014,1300680,Boa Vista do Ramos,False,False,False,A
+2015,1300680,Boa Vista do Ramos,False,False,False,A
+2016,1300680,Boa Vista do Ramos,False,False,False,A
+2017,1300680,Boa Vista do Ramos,False,False,False,A
+2018,1300680,Boa Vista do Ramos,False,False,False,B
+2019,1300680,Boa Vista do Ramos,False,False,False,B
+2020,1300680,Boa Vista do Ramos,False,False,False,B
+2021,1300680,Boa Vista do Ramos,False,False,False,B
+2022,1300680,Boa Vista do Ramos,False,False,False,C
+2023,1300680,Boa Vista do Ramos,False,False,False,C
+2014,1300706,Boca do Acre,False,False,False,A
+2015,1300706,Boca do Acre,False,False,False,A
+2016,1300706,Boca do Acre,False,False,False,A
+2017,1300706,Boca do Acre,False,False,False,A
+2018,1300706,Boca do Acre,False,False,False,B
+2019,1300706,Boca do Acre,False,False,False,B
+2020,1300706,Boca do Acre,False,False,False,B
+2021,1300706,Boca do Acre,False,False,False,B
+2022,1300706,Boca do Acre,False,False,False,C
+2023,1300706,Boca do Acre,False,False,False,C
+2014,1300805,Borba,False,False,False,A
+2015,1300805,Borba,False,False,False,A
+2016,1300805,Borba,False,False,False,A
+2017,1300805,Borba,False,False,False,A
+2018,1300805,Borba,False,False,False,B
+2019,1300805,Borba,False,False,False,B
+2020,1300805,Borba,False,False,False,B
+2021,1300805,Borba,False,False,False,B
+2022,1300805,Borba,False,False,False,C
+2023,1300805,Borba,False,False,False,C
+2014,1300839,Caapiranga,False,False,False,A
+2015,1300839,Caapiranga,False,False,False,A
+2016,1300839,Caapiranga,False,False,False,A
+2017,1300839,Caapiranga,False,True,True,
+2018,1300839,Caapiranga,False,False,False,B
+2019,1300839,Caapiranga,False,False,False,B
+2020,1300839,Caapiranga,False,False,False,B
+2021,1300839,Caapiranga,False,False,False,B
+2022,1300839,Caapiranga,False,False,False,C
+2023,1300839,Caapiranga,False,False,False,C
+2014,1300904,Canutama,False,False,False,A
+2015,1300904,Canutama,False,False,False,A
+2016,1300904,Canutama,False,False,False,A
+2017,1300904,Canutama,False,False,False,A
+2018,1300904,Canutama,False,False,False,B
+2019,1300904,Canutama,False,False,False,B
+2020,1300904,Canutama,False,False,False,B
+2021,1300904,Canutama,False,False,False,B
+2022,1300904,Canutama,False,False,False,C
+2023,1300904,Canutama,False,False,False,C
+2014,1301001,Carauari,False,False,False,A
+2015,1301001,Carauari,False,False,False,A
+2016,1301001,Carauari,False,False,False,A
+2017,1301001,Carauari,False,False,False,A
+2018,1301001,Carauari,False,False,False,B
+2019,1301001,Carauari,False,False,False,B
+2020,1301001,Carauari,False,False,False,B
+2021,1301001,Carauari,False,False,False,B
+2022,1301001,Carauari,False,False,False,C
+2023,1301001,Carauari,False,False,False,C
+2014,1301100,Careiro,False,False,False,A
+2015,1301100,Careiro,False,False,False,A
+2016,1301100,Careiro,False,True,True,
+2017,1301100,Careiro,False,False,False,A
+2018,1301100,Careiro,False,False,False,B
+2019,1301100,Careiro,False,False,False,B
+2020,1301100,Careiro,False,False,False,B
+2021,1301100,Careiro,False,False,False,B
+2022,1301100,Careiro,False,False,False,C
+2023,1301100,Careiro,False,False,False,C
+2014,1301159,Careiro da Várzea,False,False,False,A
+2015,1301159,Careiro da Várzea,False,False,False,A
+2016,1301159,Careiro da Várzea,False,False,False,A
+2017,1301159,Careiro da Várzea,False,False,False,A
+2018,1301159,Careiro da Várzea,False,False,False,B
+2019,1301159,Careiro da Várzea,False,False,False,B
+2020,1301159,Careiro da Várzea,False,False,False,B
+2021,1301159,Careiro da Várzea,False,False,False,B
+2022,1301159,Careiro da Várzea,False,False,False,C
+2023,1301159,Careiro da Várzea,False,False,False,C
+2014,1301209,Coari,False,False,False,A
+2015,1301209,Coari,False,False,False,A
+2016,1301209,Coari,False,False,False,A
+2017,1301209,Coari,False,False,False,A
+2018,1301209,Coari,False,False,False,B
+2019,1301209,Coari,False,False,False,B
+2020,1301209,Coari,False,False,False,B
+2021,1301209,Coari,False,False,False,B
+2022,1301209,Coari,False,False,False,C
+2023,1301209,Coari,False,False,False,C
+2014,1301308,Codajás,False,False,False,A
+2015,1301308,Codajás,False,False,False,A
+2016,1301308,Codajás,False,False,False,A
+2017,1301308,Codajás,False,False,False,A
+2018,1301308,Codajás,False,False,False,B
+2019,1301308,Codajás,False,False,False,B
+2020,1301308,Codajás,False,False,False,B
+2021,1301308,Codajás,False,False,False,B
+2022,1301308,Codajás,False,False,False,C
+2023,1301308,Codajás,False,False,False,C
+2014,1301407,Eirunepé,False,False,False,A
+2015,1301407,Eirunepé,False,False,False,A
+2016,1301407,Eirunepé,False,False,False,A
+2017,1301407,Eirunepé,False,False,False,A
+2018,1301407,Eirunepé,False,False,False,B
+2019,1301407,Eirunepé,False,False,False,B
+2020,1301407,Eirunepé,False,False,False,B
+2021,1301407,Eirunepé,False,False,False,B
+2022,1301407,Eirunepé,False,False,False,C
+2023,1301407,Eirunepé,False,False,False,C
+2014,1301506,Envira,False,False,False,A
+2015,1301506,Envira,False,False,False,A
+2016,1301506,Envira,False,False,False,A
+2017,1301506,Envira,False,False,False,A
+2018,1301506,Envira,False,False,False,B
+2019,1301506,Envira,False,False,False,B
+2020,1301506,Envira,False,False,False,B
+2021,1301506,Envira,False,False,False,B
+2022,1301506,Envira,False,False,False,C
+2023,1301506,Envira,False,False,False,C
+2014,1301605,Fonte Boa,False,False,False,A
+2015,1301605,Fonte Boa,False,False,False,A
+2016,1301605,Fonte Boa,False,False,False,A
+2017,1301605,Fonte Boa,False,False,False,A
+2018,1301605,Fonte Boa,False,False,False,B
+2019,1301605,Fonte Boa,False,False,False,B
+2020,1301605,Fonte Boa,False,False,False,B
+2021,1301605,Fonte Boa,False,False,False,B
+2022,1301605,Fonte Boa,False,False,False,C
+2023,1301605,Fonte Boa,False,False,False,C
+2014,1301654,Guajará,False,False,False,A
+2015,1301654,Guajará,False,False,False,A
+2016,1301654,Guajará,False,False,False,A
+2017,1301654,Guajará,False,False,False,A
+2018,1301654,Guajará,False,False,False,B
+2019,1301654,Guajará,False,False,False,B
+2020,1301654,Guajará,False,False,False,B
+2021,1301654,Guajará,False,False,False,B
+2022,1301654,Guajará,False,False,False,C
+2023,1301654,Guajará,False,False,False,C
+2014,1301704,Humaitá,True,False,False,A
+2015,1301704,Humaitá,True,False,False,A
+2016,1301704,Humaitá,True,False,False,A
+2017,1301704,Humaitá,True,False,False,A
+2018,1301704,Humaitá,True,False,False,B
+2019,1301704,Humaitá,True,False,False,B
+2020,1301704,Humaitá,True,False,False,B
+2021,1301704,Humaitá,True,False,False,B
+2022,1301704,Humaitá,True,False,False,C
+2023,1301704,Humaitá,True,False,False,C
+2014,1301803,Ipixuna,False,False,False,A
+2015,1301803,Ipixuna,False,False,False,A
+2016,1301803,Ipixuna,False,False,False,A
+2017,1301803,Ipixuna,False,False,False,A
+2018,1301803,Ipixuna,False,False,False,B
+2019,1301803,Ipixuna,False,False,False,B
+2020,1301803,Ipixuna,False,False,False,B
+2021,1301803,Ipixuna,False,False,False,B
+2022,1301803,Ipixuna,False,False,False,C
+2023,1301803,Ipixuna,False,False,False,C
+2014,1301852,Iranduba,False,False,False,A
+2015,1301852,Iranduba,False,False,False,A
+2016,1301852,Iranduba,False,False,False,A
+2017,1301852,Iranduba,False,False,False,A
+2018,1301852,Iranduba,False,False,False,B
+2019,1301852,Iranduba,False,False,False,B
+2020,1301852,Iranduba,False,False,False,B
+2021,1301852,Iranduba,False,False,False,B
+2022,1301852,Iranduba,False,False,False,C
+2023,1301852,Iranduba,False,False,False,C
+2014,1301902,Itacoatiara,False,False,False,A
+2015,1301902,Itacoatiara,False,False,False,A
+2016,1301902,Itacoatiara,False,False,False,A
+2017,1301902,Itacoatiara,False,False,False,A
+2018,1301902,Itacoatiara,False,False,False,B
+2019,1301902,Itacoatiara,False,False,False,B
+2020,1301902,Itacoatiara,False,False,False,B
+2021,1301902,Itacoatiara,False,False,False,B
+2022,1301902,Itacoatiara,False,False,False,C
+2023,1301902,Itacoatiara,False,False,False,C
+2014,1301951,Itamarati,False,True,True,
+2015,1301951,Itamarati,False,False,False,A
+2016,1301951,Itamarati,False,False,False,A
+2017,1301951,Itamarati,False,False,False,A
+2018,1301951,Itamarati,False,False,False,B
+2019,1301951,Itamarati,False,False,False,B
+2020,1301951,Itamarati,False,False,False,B
+2021,1301951,Itamarati,False,False,False,B
+2022,1301951,Itamarati,False,False,False,C
+2023,1301951,Itamarati,False,False,False,C
+2014,1302009,Itapiranga,False,False,False,A
+2015,1302009,Itapiranga,False,False,False,A
+2016,1302009,Itapiranga,False,False,False,A
+2017,1302009,Itapiranga,False,False,False,A
+2018,1302009,Itapiranga,False,False,False,B
+2019,1302009,Itapiranga,False,False,False,B
+2020,1302009,Itapiranga,False,False,False,B
+2021,1302009,Itapiranga,False,False,False,B
+2022,1302009,Itapiranga,False,False,False,C
+2023,1302009,Itapiranga,False,False,False,C
+2014,1302108,Japurá,False,False,False,A
+2015,1302108,Japurá,False,False,False,A
+2016,1302108,Japurá,False,False,False,A
+2017,1302108,Japurá,False,False,False,A
+2018,1302108,Japurá,False,False,False,B
+2019,1302108,Japurá,False,False,False,B
+2020,1302108,Japurá,False,False,False,B
+2021,1302108,Japurá,False,False,False,B
+2022,1302108,Japurá,False,False,False,C
+2023,1302108,Japurá,False,False,False,C
+2014,1302207,Juruá,False,False,False,A
+2015,1302207,Juruá,False,False,False,A
+2016,1302207,Juruá,False,False,False,A
+2017,1302207,Juruá,False,False,False,A
+2018,1302207,Juruá,False,False,False,B
+2019,1302207,Juruá,False,False,False,B
+2020,1302207,Juruá,False,False,False,B
+2021,1302207,Juruá,False,False,False,B
+2022,1302207,Juruá,False,False,False,C
+2023,1302207,Juruá,False,False,False,C
+2014,1302306,Jutaí,False,False,False,A
+2015,1302306,Jutaí,False,False,False,A
+2016,1302306,Jutaí,False,False,False,A
+2017,1302306,Jutaí,False,False,False,A
+2018,1302306,Jutaí,False,False,False,B
+2019,1302306,Jutaí,False,False,False,B
+2020,1302306,Jutaí,False,False,False,B
+2021,1302306,Jutaí,False,False,False,B
+2022,1302306,Jutaí,False,False,False,C
+2023,1302306,Jutaí,False,False,False,C
+2014,1302405,Lábrea,False,False,False,A
+2015,1302405,Lábrea,False,False,False,A
+2016,1302405,Lábrea,False,False,False,A
+2017,1302405,Lábrea,False,False,False,A
+2018,1302405,Lábrea,False,False,False,B
+2019,1302405,Lábrea,False,True,True,
+2020,1302405,Lábrea,False,False,False,B
+2021,1302405,Lábrea,False,False,False,B
+2022,1302405,Lábrea,False,False,False,C
+2023,1302405,Lábrea,False,False,False,C
+2014,1302504,Manacapuru,False,False,False,A
+2015,1302504,Manacapuru,False,False,False,A
+2016,1302504,Manacapuru,False,False,False,A
+2017,1302504,Manacapuru,False,False,False,A
+2018,1302504,Manacapuru,False,False,False,B
+2019,1302504,Manacapuru,False,False,False,B
+2020,1302504,Manacapuru,False,False,False,B
+2021,1302504,Manacapuru,False,False,False,B
+2022,1302504,Manacapuru,False,False,False,C
+2023,1302504,Manacapuru,False,False,False,C
+2014,1302553,Manaquiri,False,False,False,A
+2015,1302553,Manaquiri,False,False,False,A
+2016,1302553,Manaquiri,False,False,False,A
+2017,1302553,Manaquiri,False,False,False,A
+2018,1302553,Manaquiri,False,False,False,B
+2019,1302553,Manaquiri,False,False,False,B
+2020,1302553,Manaquiri,False,False,False,B
+2021,1302553,Manaquiri,False,False,False,B
+2022,1302553,Manaquiri,False,False,False,C
+2023,1302553,Manaquiri,False,False,False,C
+2014,1302603,Manaus,False,False,False,A
+2015,1302603,Manaus,False,False,False,A
+2016,1302603,Manaus,False,False,False,A
+2017,1302603,Manaus,False,False,False,A
+2018,1302603,Manaus,False,False,False,B
+2019,1302603,Manaus,False,False,False,B
+2020,1302603,Manaus,False,False,False,B
+2021,1302603,Manaus,False,False,False,B
+2022,1302603,Manaus,False,False,False,C
+2023,1302603,Manaus,False,False,False,C
+2014,1302702,Manicoré,False,False,False,A
+2015,1302702,Manicoré,False,False,False,A
+2016,1302702,Manicoré,False,False,False,A
+2017,1302702,Manicoré,False,False,False,A
+2018,1302702,Manicoré,False,False,False,B
+2019,1302702,Manicoré,False,False,False,B
+2020,1302702,Manicoré,False,False,False,B
+2021,1302702,Manicoré,False,False,False,B
+2022,1302702,Manicoré,False,False,False,C
+2023,1302702,Manicoré,False,False,False,C
+2014,1302801,Maraã,False,False,False,A
+2015,1302801,Maraã,False,False,False,A
+2016,1302801,Maraã,False,False,False,A
+2017,1302801,Maraã,False,False,False,A
+2018,1302801,Maraã,False,False,False,B
+2019,1302801,Maraã,False,False,False,B
+2020,1302801,Maraã,False,False,False,B
+2021,1302801,Maraã,False,False,False,B
+2022,1302801,Maraã,False,False,False,C
+2023,1302801,Maraã,False,False,False,C
+2014,1302900,Maués,False,False,False,A
+2015,1302900,Maués,False,False,False,A
+2016,1302900,Maués,False,False,False,A
+2017,1302900,Maués,False,False,False,A
+2018,1302900,Maués,False,False,False,B
+2019,1302900,Maués,False,False,False,B
+2020,1302900,Maués,False,False,False,B
+2021,1302900,Maués,False,False,False,B
+2022,1302900,Maués,False,False,False,C
+2023,1302900,Maués,False,False,False,C
+2014,1303007,Nhamundá,False,False,False,A
+2015,1303007,Nhamundá,False,False,False,A
+2016,1303007,Nhamundá,False,False,False,A
+2017,1303007,Nhamundá,False,False,False,A
+2018,1303007,Nhamundá,False,False,False,B
+2019,1303007,Nhamundá,False,False,False,B
+2020,1303007,Nhamundá,False,False,False,B
+2021,1303007,Nhamundá,False,False,False,B
+2022,1303007,Nhamundá,False,False,False,C
+2023,1303007,Nhamundá,False,False,False,C
+2014,1303106,Nova Olinda do Norte,False,False,False,A
+2015,1303106,Nova Olinda do Norte,False,False,False,A
+2016,1303106,Nova Olinda do Norte,False,False,False,A
+2017,1303106,Nova Olinda do Norte,False,False,False,A
+2018,1303106,Nova Olinda do Norte,False,False,False,B
+2019,1303106,Nova Olinda do Norte,False,False,False,B
+2020,1303106,Nova Olinda do Norte,False,False,False,B
+2021,1303106,Nova Olinda do Norte,False,False,False,B
+2022,1303106,Nova Olinda do Norte,False,False,False,C
+2023,1303106,Nova Olinda do Norte,False,False,False,C
+2014,1303205,Novo Airão,False,False,False,A
+2015,1303205,Novo Airão,False,False,False,A
+2016,1303205,Novo Airão,False,False,False,A
+2017,1303205,Novo Airão,False,False,False,A
+2018,1303205,Novo Airão,False,False,False,B
+2019,1303205,Novo Airão,False,False,False,B
+2020,1303205,Novo Airão,False,False,False,B
+2021,1303205,Novo Airão,False,False,False,B
+2022,1303205,Novo Airão,False,False,False,C
+2023,1303205,Novo Airão,False,False,False,C
+2014,1303304,Novo Aripuanã,False,False,False,A
+2015,1303304,Novo Aripuanã,False,False,False,A
+2016,1303304,Novo Aripuanã,False,False,False,A
+2017,1303304,Novo Aripuanã,False,False,False,A
+2018,1303304,Novo Aripuanã,False,False,False,B
+2019,1303304,Novo Aripuanã,False,False,False,B
+2020,1303304,Novo Aripuanã,False,False,False,B
+2021,1303304,Novo Aripuanã,False,False,False,B
+2022,1303304,Novo Aripuanã,False,False,False,C
+2023,1303304,Novo Aripuanã,False,False,False,C
+2014,1303403,Parintins,False,False,False,A
+2015,1303403,Parintins,False,False,False,A
+2016,1303403,Parintins,False,True,True,
+2017,1303403,Parintins,False,False,False,A
+2018,1303403,Parintins,False,False,False,B
+2019,1303403,Parintins,False,False,False,B
+2020,1303403,Parintins,False,False,False,B
+2021,1303403,Parintins,False,False,False,B
+2022,1303403,Parintins,False,False,False,C
+2023,1303403,Parintins,False,False,False,C
+2014,1303502,Pauini,False,True,True,
+2015,1303502,Pauini,False,True,True,
+2016,1303502,Pauini,False,False,False,A
+2017,1303502,Pauini,False,False,False,A
+2018,1303502,Pauini,False,False,False,B
+2019,1303502,Pauini,False,False,False,B
+2020,1303502,Pauini,False,False,False,B
+2021,1303502,Pauini,False,False,False,B
+2022,1303502,Pauini,False,False,False,C
+2023,1303502,Pauini,False,False,False,C
+2014,1303536,Presidente Figueiredo,False,False,False,A
+2015,1303536,Presidente Figueiredo,False,False,False,A
+2016,1303536,Presidente Figueiredo,False,False,False,A
+2017,1303536,Presidente Figueiredo,False,False,False,A
+2018,1303536,Presidente Figueiredo,False,False,False,B
+2019,1303536,Presidente Figueiredo,False,False,False,B
+2020,1303536,Presidente Figueiredo,False,False,False,B
+2021,1303536,Presidente Figueiredo,False,False,False,B
+2022,1303536,Presidente Figueiredo,False,False,False,C
+2023,1303536,Presidente Figueiredo,False,False,False,C
+2014,1303569,Rio Preto da Eva,False,False,False,A
+2015,1303569,Rio Preto da Eva,False,False,False,A
+2016,1303569,Rio Preto da Eva,False,False,False,A
+2017,1303569,Rio Preto da Eva,False,False,False,A
+2018,1303569,Rio Preto da Eva,False,False,False,B
+2019,1303569,Rio Preto da Eva,False,False,False,B
+2020,1303569,Rio Preto da Eva,False,False,False,B
+2021,1303569,Rio Preto da Eva,False,False,False,B
+2022,1303569,Rio Preto da Eva,False,False,False,C
+2023,1303569,Rio Preto da Eva,False,False,False,C
+2014,1303601,Santa Isabel do Rio Negro,False,False,False,A
+2015,1303601,Santa Isabel do Rio Negro,False,True,True,
+2016,1303601,Santa Isabel do Rio Negro,False,False,False,A
+2017,1303601,Santa Isabel do Rio Negro,False,False,False,A
+2018,1303601,Santa Isabel do Rio Negro,False,False,False,B
+2019,1303601,Santa Isabel do Rio Negro,False,False,False,B
+2020,1303601,Santa Isabel do Rio Negro,False,False,False,B
+2021,1303601,Santa Isabel do Rio Negro,False,False,False,B
+2022,1303601,Santa Isabel do Rio Negro,False,False,False,C
+2023,1303601,Santa Isabel do Rio Negro,False,False,False,C
+2014,1303700,Santo Antônio do Içá,False,False,False,A
+2015,1303700,Santo Antônio do Içá,False,False,False,A
+2016,1303700,Santo Antônio do Içá,False,False,False,A
+2017,1303700,Santo Antônio do Içá,False,False,False,A
+2018,1303700,Santo Antônio do Içá,False,False,False,B
+2019,1303700,Santo Antônio do Içá,False,False,False,B
+2020,1303700,Santo Antônio do Içá,False,False,False,B
+2021,1303700,Santo Antônio do Içá,False,False,False,B
+2022,1303700,Santo Antônio do Içá,False,False,False,C
+2023,1303700,Santo Antônio do Içá,False,False,False,C
+2014,1303809,São Gabriel da Cachoeira,False,False,False,A
+2015,1303809,São Gabriel da Cachoeira,False,False,False,A
+2016,1303809,São Gabriel da Cachoeira,False,False,False,A
+2017,1303809,São Gabriel da Cachoeira,False,False,False,A
+2018,1303809,São Gabriel da Cachoeira,False,False,False,B
+2019,1303809,São Gabriel da Cachoeira,False,False,False,B
+2020,1303809,São Gabriel da Cachoeira,False,False,False,B
+2021,1303809,São Gabriel da Cachoeira,False,False,False,B
+2022,1303809,São Gabriel da Cachoeira,False,False,False,C
+2023,1303809,São Gabriel da Cachoeira,False,False,False,C
+2014,1303908,São Paulo de Olivença,False,False,False,A
+2015,1303908,São Paulo de Olivença,False,False,False,A
+2016,1303908,São Paulo de Olivença,False,False,False,A
+2017,1303908,São Paulo de Olivença,False,False,False,A
+2018,1303908,São Paulo de Olivença,False,False,False,B
+2019,1303908,São Paulo de Olivença,False,False,False,B
+2020,1303908,São Paulo de Olivença,False,False,False,B
+2021,1303908,São Paulo de Olivença,False,False,False,B
+2022,1303908,São Paulo de Olivença,False,False,False,C
+2023,1303908,São Paulo de Olivença,False,False,False,C
+2014,1303957,São Sebastião do Uatumã,False,False,False,A
+2015,1303957,São Sebastião do Uatumã,False,False,False,A
+2016,1303957,São Sebastião do Uatumã,False,False,False,A
+2017,1303957,São Sebastião do Uatumã,False,False,False,A
+2018,1303957,São Sebastião do Uatumã,False,False,False,B
+2019,1303957,São Sebastião do Uatumã,False,False,False,B
+2020,1303957,São Sebastião do Uatumã,False,False,False,B
+2021,1303957,São Sebastião do Uatumã,False,False,False,B
+2022,1303957,São Sebastião do Uatumã,False,False,False,C
+2023,1303957,São Sebastião do Uatumã,False,False,False,C
+2014,1304005,Silves,False,False,False,A
+2015,1304005,Silves,False,False,False,A
+2016,1304005,Silves,False,False,False,A
+2017,1304005,Silves,False,False,False,A
+2018,1304005,Silves,False,False,False,B
+2019,1304005,Silves,False,False,False,B
+2020,1304005,Silves,False,False,False,B
+2021,1304005,Silves,False,False,False,B
+2022,1304005,Silves,False,False,False,C
+2023,1304005,Silves,False,False,False,C
+2014,1304062,Tabatinga,True,False,False,A
+2015,1304062,Tabatinga,True,True,True,
+2016,1304062,Tabatinga,True,True,True,
+2017,1304062,Tabatinga,True,False,False,A
+2018,1304062,Tabatinga,True,False,False,B
+2019,1304062,Tabatinga,True,False,False,B
+2020,1304062,Tabatinga,True,False,False,B
+2021,1304062,Tabatinga,True,False,False,B
+2022,1304062,Tabatinga,True,False,False,C
+2023,1304062,Tabatinga,True,False,False,C
+2014,1304104,Tapauá,False,False,False,A
+2015,1304104,Tapauá,False,False,False,A
+2016,1304104,Tapauá,False,False,False,A
+2017,1304104,Tapauá,False,False,False,A
+2018,1304104,Tapauá,False,False,False,B
+2019,1304104,Tapauá,False,False,False,B
+2020,1304104,Tapauá,False,False,False,B
+2021,1304104,Tapauá,False,False,False,B
+2022,1304104,Tapauá,False,False,False,C
+2023,1304104,Tapauá,False,False,False,C
+2014,1304203,Tefé,False,False,False,A
+2015,1304203,Tefé,False,False,False,A
+2016,1304203,Tefé,False,False,False,A
+2017,1304203,Tefé,False,False,False,A
+2018,1304203,Tefé,False,False,False,B
+2019,1304203,Tefé,False,False,False,B
+2020,1304203,Tefé,False,False,False,B
+2021,1304203,Tefé,False,False,False,B
+2022,1304203,Tefé,False,False,False,C
+2023,1304203,Tefé,False,False,False,C
+2014,1304237,Tonantins,False,False,False,A
+2015,1304237,Tonantins,False,False,False,A
+2016,1304237,Tonantins,False,False,False,A
+2017,1304237,Tonantins,False,False,False,A
+2018,1304237,Tonantins,False,False,False,B
+2019,1304237,Tonantins,False,False,False,B
+2020,1304237,Tonantins,False,False,False,B
+2021,1304237,Tonantins,False,False,False,B
+2022,1304237,Tonantins,False,False,False,C
+2023,1304237,Tonantins,False,False,False,C
+2014,1304260,Uarini,False,False,False,A
+2015,1304260,Uarini,False,False,False,A
+2016,1304260,Uarini,False,False,False,A
+2017,1304260,Uarini,False,False,False,A
+2018,1304260,Uarini,False,False,False,B
+2019,1304260,Uarini,False,False,False,B
+2020,1304260,Uarini,False,False,False,B
+2021,1304260,Uarini,False,False,False,B
+2022,1304260,Uarini,False,False,False,C
+2023,1304260,Uarini,False,False,False,C
+2014,1304302,Urucará,False,False,False,A
+2015,1304302,Urucará,False,False,False,A
+2016,1304302,Urucará,False,False,False,A
+2017,1304302,Urucará,False,False,False,A
+2018,1304302,Urucará,False,False,False,B
+2019,1304302,Urucará,False,False,False,B
+2020,1304302,Urucará,False,False,False,B
+2021,1304302,Urucará,False,False,False,B
+2022,1304302,Urucará,False,False,False,C
+2023,1304302,Urucará,False,False,False,C
+2014,1304401,Urucurituba,False,False,False,A
+2015,1304401,Urucurituba,False,False,False,A
+2016,1304401,Urucurituba,False,False,False,A
+2017,1304401,Urucurituba,False,False,False,A
+2018,1304401,Urucurituba,False,False,False,B
+2019,1304401,Urucurituba,False,False,False,B
+2020,1304401,Urucurituba,False,False,False,B
+2021,1304401,Urucurituba,False,False,False,B
+2022,1304401,Urucurituba,False,False,False,C
+2023,1304401,Urucurituba,False,False,False,C

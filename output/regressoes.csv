@@ -1,0 +1,27 @@
+variavel,coef,ep,p,modelo,N,municipios,R2_within
+l_transf,0.5589,0.1323,0.0,M1 FE: gasto corrente ~ transf + receita própria,609,62,0.851
+l_prop,0.0665,0.0201,0.0009,M1 FE: gasto corrente ~ transf + receita própria,609,62,0.851
+l_transf,0.5342,0.1021,0.0,M2 FE: gasto corrente ~ transf + PIB pc (renda),609,62,0.849
+l_pib,0.1789,0.0801,0.0255,M2 FE: gasto corrente ~ transf + PIB pc (renda),609,62,0.849
+l_transf_sfund,0.512,0.0752,0.0,M3 FE: M2 sem FUNDEB nas transferências,609,62,0.846
+l_pib,0.2057,0.0831,0.0133,M3 FE: M2 sem FUNDEB nas transferências,609,62,0.846
+l_transf,0.6589,0.1879,0.0005,M4 FE: receita própria ~ transf + PIB pc,609,62,0.343
+l_pib,0.1833,0.1342,0.1722,M4 FE: receita própria ~ transf + PIB pc,609,62,0.343
+l_transf,0.4635,0.1761,0.0085,M5 FE: receita tributária ~ transf + PIB pc,609,62,0.388
+l_pib,0.1809,0.1555,0.2447,M5 FE: receita tributária ~ transf + PIB pc,609,62,0.388
+l_transf,0.3858,0.0909,0.0,M6 FE: despesa pessoal,609,62,0.751
+l_pib,0.2674,0.0834,0.0014,M6 FE: despesa pessoal,609,62,0.751
+l_transf,1.6023,0.4436,0.0003,M7 FE: investimento,609,62,0.405
+l_pib,-0.6286,0.2731,0.0214,M7 FE: investimento,609,62,0.405
+dpos,0.2105,0.0742,0.0045,"M8 FD+FE ano: Δgasto ~ Δtransf+ , Δtransf- , Δpib (assimetria)",540,62,0.386
+dneg,0.0778,0.0748,0.2979,"M8 FD+FE ano: Δgasto ~ Δtransf+ , Δtransf- , Δpib (assimetria)",540,62,0.386
+dl_pib,-0.0207,0.0968,0.8306,"M8 FD+FE ano: Δgasto ~ Δtransf+ , Δtransf- , Δpib (assimetria)",540,62,0.386
+dpos,0.206,0.2062,0.3177,"M9 FD+FE ano: Δreceita própria ~ Δtransf+ , Δtransf- (substituição fiscal)",540,62,0.116
+dneg,0.0157,0.2495,0.9498,"M9 FD+FE ano: Δreceita própria ~ Δtransf+ , Δtransf- (substituição fiscal)",540,62,0.116
+dl_pib,0.2073,0.2405,0.3887,"M9 FD+FE ano: Δreceita própria ~ Δtransf+ , Δtransf- (substituição fiscal)",540,62,0.116
+l_transf,0.3923,0.0994,0.0001,M10 FE: M2 só 2014-2021 (plano A/B),485,62,0.695
+l_pib,0.1183,0.0947,0.2114,M10 FE: M2 só 2014-2021 (plano A/B),485,62,0.695
+l_transf,0.4616,0.089,0.0,M11 FE: M2 sem 1% maiores transferências pc (robustez a outliers),602,62,0.838
+l_pib,0.0982,0.0542,0.07,M11 FE: M2 sem 1% maiores transferências pc (robustez a outliers),602,62,0.838
+l_transf,0.5333,0.1023,0.0,M12 FE: M2 sem Tabatinga e Humaitá,591,60,0.847
+l_pib,0.1804,0.0809,0.0257,M12 FE: M2 sem Tabatinga e Humaitá,591,60,0.847

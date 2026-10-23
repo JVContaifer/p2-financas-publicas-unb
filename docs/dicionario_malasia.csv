@@ -1,0 +1,22 @@
+﻿variavel,definicao,fonte,periodo,unidade,dados_ausentes,transformacao
+populacao,População,"WDI SP.POP.TOTL, https://data.worldbank.org",2014-2024,habitantes,ausente=NaN,nenhuma
+fator_real_2023,Fator para converter MYR correntes em MYR de 2023,WDI FP.CPI.TOTL (IPC),2014-2024,razão,-,cpi_2023/cpi_t
+pib_nominal_myr,PIB nominal,WDI NY.GDP.MKTP.CN,2014-2024,MYR correntes,-,nenhuma
+pib_real_myr_2023,PIB em MYR de 2023,derivada,2014-2024,MYR de 2023,-,pib_nominal_myr*fator_real_2023
+pib_pc_real_myr_2023,PIB per capita real,derivada,2014-2024,MYR de 2023,-,pib_real_myr_2023/populacao
+gc_receita_pct_pib,Receita do governo CENTRAL,WDI GC.REV.XGRT.GD.ZS,2014-2024,% PIB,-,nenhuma
+gc_despesa_pct_pib,Despesa do governo CENTRAL,WDI GC.XPN.TOTL.GD.ZS,2014-2023,% PIB,2024 ausente (NaN),nenhuma
+gc_tributos_pct_pib,Tributos do governo CENTRAL,WDI GC.TAX.TOTL.GD.ZS,2014-2024,% PIB,-,nenhuma
+gc_saldo_pct_pib,Saldo do governo CENTRAL,WDI GC.NLD.TOTL.GD.ZS,2014-2024,% PIB,-,nenhuma
+gc_divida_pct_pib,Dívida do governo CENTRAL,WDI GC.DOD.TOTL.GD.ZS,2014-2024,% PIB,-,nenhuma
+gc_receita_real_pc,Receita central per capita real,derivada,2014-2024,MYR de 2023,-,gc_receita_pct_pib/100*pib_pc_real_myr_2023
+gc_despesa_real_pc,Despesa central per capita real,derivada,2014-2023,MYR de 2023,2024 NaN,idem com despesa
+gc_tributos_real_pc,Tributos central per capita real,derivada,2014-2024,MYR de 2023,-,idem com tributos
+gc_receita_naotrib_pct_pib,Receita não tributária central,derivada,2014-2024,% PIB,-,gc_receita_pct_pib-gc_tributos_pct_pib
+gg_receita_pct_pib_weo,Receita do governo GERAL,FMI WEO 9.0.0 GGR_NGDP (arquivo do P1),2014-2024,% PIB,-,nenhuma
+gg_despesa_pct_pib_weo,Despesa do governo GERAL,FMI WEO GGX_NGDP,2014-2024,% PIB,-,nenhuma
+gg_saldo_pct_pib_weo,Saldo do governo GERAL,FMI WEO GGXCNL_NGDP,2014-2024,% PIB,-,nenhuma
+gg_divida_pct_pib_weo,Dívida bruta do governo GERAL,FMI WEO GGXWDG_NGDP,2014-2024,% PIB,-,nenhuma
+pib_real_cresc_pct,Crescimento do PIB real,derivada,2015-2024,%,2014 NaN,variação % de pib_real_myr_2023
+flag_weo_estimado,Ano de estimativa/projeção no WEO,derivada,-,lógico,-,ano>=2025
+flag_gc_despesa_ausente,Despesa central ausente,derivada,-,lógico,-,isna(gc_despesa_pct_pib)

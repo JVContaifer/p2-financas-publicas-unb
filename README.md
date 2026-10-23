@@ -28,7 +28,7 @@ data/raw/bibliometria/  exportação original do Scopus
    receitas contra o total oficial do Finbra e interrompe se algum município focal não fechar.
 3. `R/02_coleta_malasia.R` (R) coleta os indicadores da Malásia no Banco Mundial (WDI); `python3 R/04_tratamento_malasia.py` gera `data/tratado/painel_malasia.csv`.
 4. `python3 R/07_regressoes.py` (regressões, `output/regressoes.csv`) e `python3 R/08_descritivas_figuras.py` (tabela e figura descritivas). Requer `matplotlib`.
-5. Bibliometria: `python3 R/06_bibliometria_python.py` (requer `networkx`, `matplotlib`) e, no R, `R/05_bibliometrix.R` (bibliometrix, usa o CSV do Scopus em `data/raw/bibliometria/`).
+5. Bibliometria (obrigatória, com bibliometrix): no R/RStudio, `setwd()` para a pasta com o CSV do Scopus (`data/raw/bibliometria/`) e `source("R/05_bibliometrix.R")`. Gera `output/bibliometrix_graficos.pdf` (executado no Posit Cloud, R 4.6.1, em 23/10/2026); `output/bibliometrix_painel.png` é a composição dos painéis A–D usada no artigo. `R/06_bibliometria_python.py` é uma réplica complementar em Python, não usada no artigo.
 6. Artigo: `cd artigo && sh build.sh` (pdflatex + bibtex). O PDF entregue é `artigo/211014396.pdf`; `artigo/refs.bib` traz as referências.
 
 ### Origem dos dados brutos

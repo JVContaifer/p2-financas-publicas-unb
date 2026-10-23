@@ -59,6 +59,6 @@ fontes oficiais e a limitação foi registrada aqui.
 
 - `data/tratado/painel_malasia.csv` (11 anos) e `docs/dicionario_malasia.csv`: Malásia em MYR de 2023 (deflator = IPC do WDI), per capita e % do PIB, separando governo central (WDI) e geral (FMI).
 - `data/raw/bibliometria/scopus_export_2026-10-23.csv`: exportação original do Scopus (1.083 documentos). `docs/referencias_80.csv`: as 80 referências do artigo (todas artigos/revisões com DOI).
-- `output/regressoes.csv`, `output/tabela_descritiva.csv`, `output/focais_resumo.csv`, `output/bibliometria_*`, `output/fig_descritivas.png`: resultados.
+- `output/regressoes.csv`, `output/tabela_descritiva.csv`, `output/focais_resumo.csv`, `output/bibliometrix_*`, `output/fig_descritivas.png`: resultados.
 - Regressões de painel (efeitos fixos de município e ano, EP agrupados por município) em `R/07_regressoes.py`, implementadas em numpy (statsmodels não estava disponível). Cada coeficiente do artigo vem de `output/regressoes.csv`.
-- Limitações adicionais: PIB municipal é proxy fraca de renda local; transferências são endógenas (sem instrumentos); sem dados malaios de transferências subnacionais; a análise bibliométrica do artigo foi feita em Python (`R/06_bibliometria_python.py`) e o `R/05_bibliometrix.R` (bibliometrix) não foi executado no ambiente de produção.
+- Limitações adicionais: PIB municipal é proxy fraca de renda local; transferências são endógenas (sem instrumentos); sem dados malaios de transferências subnacionais; a análise bibliométrica do artigo foi feita com o pacote bibliometrix (`R/05_bibliometrix.R`, executado no Posit Cloud em 23/10/2026; saída em `output/bibliometrix_graficos.pdf`). `R/06_bibliometria_python.py` é uma réplica complementar.

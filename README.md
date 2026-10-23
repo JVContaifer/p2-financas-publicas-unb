@@ -7,7 +7,7 @@
 
 ```
 data/
-  original/    material reaproveitado do trabalho anterior, sem alteração (IPCA)
+  original/    material reaproveitado do trabalho anterior, sem alteração (IPCA; p1/ = cópia da base original do P1: dados_muni.zip e dados_pais.zip)
   raw/         dados brutos atualizados, coletados nas fontes
     siconfi/   Finbra I-C (receitas) e I-D (despesas), AM, 2014-2023
   tratado/     dados usados nas análises (painel_am.csv, painel_focais.csv, controle_cobertura.csv)

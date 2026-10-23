@@ -17,6 +17,7 @@ fontes oficiais e a limitação foi registrada aqui.
 | Arquivo | Uso nesta versão |
 |---|---|
 | `ipeadata_ipca.csv` | Copiado sem alteração para `data/original/`. Base do deflator |
+| `dados_muni.zip`, `dados_pais.zip` | Cópia **intacta** da base original do P1 (RJ e Paraguai) em `data/original/p1/`; não usados nas análises do P2 |
 | `ibge_pibmunicipios_2010-2023.xlsx` | Filtrado para o Amazonas (62 municípios) → `data/raw/ibge_pib_am_2010_2023.csv` |
 | `fmi_weo_dataset.csv` (WEO, FMI) | Filtrado para a Malásia (MYS) → `data/raw/weo_malasia_bruto.csv` |
 | Estrutura de variáveis (receita, FPM/ICMS, transferências, despesas, IPCA, PIB) | Reaproveitada como modelo |
